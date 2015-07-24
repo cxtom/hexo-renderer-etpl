@@ -1,0 +1,23 @@
+{
+  "name": "hexo-renderer-etpl",
+  "version": "0.0.1",
+  "description": "ETPL renderer plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cxtom/hexo-renderer-etpl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cxtom/hexo-renderer-etpl/issues"
+  },
+  "keywords": [
+    "hexo",
+    "etpl",
+    "renderer"
+  ],
+  "author": "cxtom <cxtom2008@gmail.com>",
+  "dependencies": {
+    "etpl": "^3.0.1",
+    "underscore": "^1.8.3"
+  }
+}
